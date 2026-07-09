@@ -83,7 +83,7 @@ Make the URLs configurable via command-line arguments using `std::env::args()`.
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY26/async_scraper
+cd ~/Dev/personal-learning-AI/learn-rust/DAY26/async_scraper
 cargo run
 ```
 

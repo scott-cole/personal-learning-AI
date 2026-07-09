@@ -67,7 +67,7 @@ DAY13/
 You need a local server or compile with tsc:
 
 ```bash
-cd ~/Dev/learn-ts/DAY13
+cd ~/Dev/personal-learning-AI/learn-ts/DAY13
 npx tsc index.ts --outDir . --target ES2020 --module ES2020
 # Then open index.html in a browser
 ```

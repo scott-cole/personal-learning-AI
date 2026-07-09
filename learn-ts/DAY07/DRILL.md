@@ -78,7 +78,7 @@ $ npx tsx index.ts add "Finish this project"
 ## How to run
 
 ```bash
-cd ~/Dev/learn-ts/DAY07
+cd ~/Dev/personal-learning-AI/learn-ts/DAY07
 npx tsx index.ts add "Test todo"
 npx tsx index.ts list
 ```

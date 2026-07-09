@@ -5,7 +5,7 @@ Build the complete URL shortener API in `DAY29/`.
 ## Setup
 
 ```bash
-cd ~/Dev/learn-ts/DAY29
+cd ~/Dev/personal-learning-AI/learn-ts/DAY29
 npm init -y
 npm install express zod
 npm install -D typescript @types/node @types/express tsx

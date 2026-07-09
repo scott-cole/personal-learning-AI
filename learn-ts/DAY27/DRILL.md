@@ -5,7 +5,7 @@ Build React components with custom hooks in `DAY27/`. Use Vite.
 ## Setup
 
 ```bash
-cd ~/Dev/learn-ts/DAY27
+cd ~/Dev/personal-learning-AI/learn-ts/DAY27
 npm create vite@latest . -- --template react-ts
 npm install
 ```

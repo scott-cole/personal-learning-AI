@@ -57,7 +57,7 @@ Create a `DeepPartial<T>` that recursively makes all properties optional. Create
 ## How to run
 
 ```bash
-cd ~/Dev/learn-ts/DAY17
+cd ~/Dev/personal-learning-AI/learn-ts/DAY17
 npx tsx index.ts
 ```
 

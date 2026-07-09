@@ -49,7 +49,7 @@ Letter grades:
 ## How to run
 
 ```bash
-cd ~/Dev/learn-ts/DAY04
+cd ~/Dev/personal-learning-AI/learn-ts/DAY04
 npx tsx index.ts
 ```
 

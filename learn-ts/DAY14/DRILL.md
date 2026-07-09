@@ -80,7 +80,7 @@ Add a `createTodo` method that POSTs a new todo and prints the response. Add a `
 ## How to run
 
 ```bash
-cd ~/Dev/learn-ts/DAY14
+cd ~/Dev/personal-learning-AI/learn-ts/DAY14
 npx tsx index.ts
 ```
 

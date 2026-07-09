@@ -153,7 +153,7 @@ curl -X DELETE http://127.0.0.1:3000/books/1
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY25/books_api
+cd ~/Dev/personal-learning-AI/learn-rust/DAY25/books_api
 cargo run
 ```
 

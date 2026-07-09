@@ -53,7 +53,7 @@ Add a fourth shape kind: `"square"` with a `sideLength`. Update `area` and `desc
 ## How to run
 
 ```bash
-cd ~/Dev/learn-ts/DAY05
+cd ~/Dev/personal-learning-AI/learn-ts/DAY05
 npx tsx index.ts
 ```
 

@@ -80,7 +80,7 @@ Add a `sqrt` function that returns `Option<f64>` (returns `None` for negative nu
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY09
+cd ~/Dev/personal-learning-AI/learn-rust/DAY09
 rustc main.rs && ./main
 ```
 

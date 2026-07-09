@@ -58,7 +58,7 @@ Write a function `last_token(s: &str) -> &str` that returns everything after the
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY05
+cd ~/Dev/personal-learning-AI/learn-rust/DAY05
 rustc main.rs && ./main
 ```
 

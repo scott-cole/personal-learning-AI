@@ -5,7 +5,7 @@ Build an app with Context + Reducer in `DAY28/`. Use Vite.
 ## Setup
 
 ```bash
-cd ~/Dev/learn-ts/DAY28
+cd ~/Dev/personal-learning-AI/learn-ts/DAY28
 npm create vite@latest . -- --template react-ts
 npm install
 ```

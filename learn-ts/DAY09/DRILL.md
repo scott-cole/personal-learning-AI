@@ -73,7 +73,7 @@ Add a function `totalByStatus(payments: Payment[], status: PaymentStatus): numbe
 ## How to run
 
 ```bash
-cd ~/Dev/learn-ts/DAY09
+cd ~/Dev/personal-learning-AI/learn-ts/DAY09
 npx tsx index.ts
 ```
 

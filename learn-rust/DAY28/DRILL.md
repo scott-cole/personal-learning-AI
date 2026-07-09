@@ -160,7 +160,7 @@ $ cargo run -- list
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY28/cli_todo
+cd ~/Dev/personal-learning-AI/learn-rust/DAY28/cli_todo
 cargo run -- add "Test todo"
 cargo run -- list
 ```

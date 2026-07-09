@@ -108,7 +108,7 @@ After removing item 1:
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY07/todo_manager
+cd ~/Dev/personal-learning-AI/learn-rust/DAY07/todo_manager
 cargo run
 ```
 

@@ -63,7 +63,7 @@ Add a generic constraint `T extends { id: string }` to `Repository` and implemen
 ## How to run
 
 ```bash
-cd ~/Dev/learn-ts/DAY08
+cd ~/Dev/personal-learning-AI/learn-ts/DAY08
 npx tsx index.ts
 ```
 

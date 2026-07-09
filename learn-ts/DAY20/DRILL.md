@@ -92,7 +92,7 @@ Add a `paths` alias in tsconfig.json so you can import `@utils/format` instead o
 ## How to run
 
 ```bash
-cd ~/Dev/learn-ts/DAY20
+cd ~/Dev/personal-learning-AI/learn-ts/DAY20
 npx tsc
 node dist/src/index.js
 ```

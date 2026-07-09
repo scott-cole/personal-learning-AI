@@ -70,7 +70,7 @@ Write a module augmentation for the built-in `Array` type that adds a `.last()` 
 ## How to run
 
 ```bash
-cd ~/Dev/learn-ts/DAY19
+cd ~/Dev/personal-learning-AI/learn-ts/DAY19
 npx tsx index.ts
 ```
 

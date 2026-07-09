@@ -52,7 +52,7 @@ Add a `function washDishes(): Promise<string>` that takes 3 seconds and runs IN 
 ## How to run
 
 ```bash
-cd ~/Dev/learn-ts/DAY11
+cd ~/Dev/personal-learning-AI/learn-ts/DAY11
 npx tsx index.ts
 ```
 

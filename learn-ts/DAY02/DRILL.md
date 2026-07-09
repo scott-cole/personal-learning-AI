@@ -44,7 +44,7 @@ Add a third function `convertMany` that takes an array of Celsius temps and retu
 ## How to run
 
 ```bash
-cd ~/Dev/learn-ts/DAY02
+cd ~/Dev/personal-learning-AI/learn-ts/DAY02
 npx tsx index.ts
 ```
 

@@ -145,7 +145,7 @@ curl http://127.0.0.1:3000/stats/aB3xK9
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY29/url_shortener
+cd ~/Dev/personal-learning-AI/learn-rust/DAY29/url_shortener
 cargo run
 ```
 

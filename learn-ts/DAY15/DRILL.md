@@ -55,7 +55,7 @@ Write `pick` as a generic that also accepts `(keyof T)[]` and returns the narrow
 ## How to run
 
 ```bash
-cd ~/Dev/learn-ts/DAY15
+cd ~/Dev/personal-learning-AI/learn-ts/DAY15
 npx tsx index.ts
 ```
 

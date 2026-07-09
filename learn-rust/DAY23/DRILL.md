@@ -108,7 +108,7 @@ Add a `DatabaseConfig` struct and nest it inside `ServerConfig`. Use `#[serde(fl
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY23/config_parser
+cd ~/Dev/personal-learning-AI/learn-rust/DAY23/config_parser
 cargo run
 ```
 

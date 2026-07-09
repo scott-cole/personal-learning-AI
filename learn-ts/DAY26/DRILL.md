@@ -5,7 +5,7 @@ Build a React + TypeScript component in `DAY26/`. Use a Vite scaffold for easy s
 ## Setup
 
 ```bash
-cd ~/Dev/learn-ts/DAY26
+cd ~/Dev/personal-learning-AI/learn-ts/DAY26
 npm create vite@latest . -- --template react-ts
 npm install
 ```

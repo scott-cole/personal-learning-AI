@@ -61,7 +61,7 @@ Write a function `compose` that takes two closures `f` and `g` and returns a new
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY15
+cd ~/Dev/personal-learning-AI/learn-rust/DAY15
 rustc main.rs && ./main
 ```
 

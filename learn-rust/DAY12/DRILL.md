@@ -78,7 +78,7 @@ Implement a `Display` trait for both shapes using `impl fmt::Display for Circle 
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY12
+cd ~/Dev/personal-learning-AI/learn-rust/DAY12
 rustc main.rs && ./main
 ```
 

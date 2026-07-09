@@ -78,7 +78,7 @@ Calculate the sum of all numbers in the Fibonacci sequence under 100 using `std:
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY16
+cd ~/Dev/personal-learning-AI/learn-rust/DAY16
 rustc main.rs && ./main
 ```
 

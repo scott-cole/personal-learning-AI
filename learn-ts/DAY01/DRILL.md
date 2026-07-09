@@ -41,7 +41,7 @@ And add boolean variables `isStudent` and `isEmployed` — log them too.
 ## How to run
 
 ```bash
-cd ~/Dev/learn-ts/DAY01
+cd ~/Dev/personal-learning-AI/learn-ts/DAY01
 npx tsx index.ts
 ```
 

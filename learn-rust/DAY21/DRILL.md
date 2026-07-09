@@ -159,7 +159,7 @@ Worker 2 shutting down
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY21/thread_pool
+cd ~/Dev/personal-learning-AI/learn-rust/DAY21/thread_pool
 cargo run
 ```
 

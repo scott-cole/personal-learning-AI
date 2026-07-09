@@ -109,7 +109,7 @@ test result: ok. 6 passed; 0 failed; 0 ignored; 0 measured
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY18/calculator
+cd ~/Dev/personal-learning-AI/learn-rust/DAY18/calculator
 cargo test
 ```
 

@@ -61,7 +61,7 @@ Write a function that takes a **mutable reference** and converts it to uppercase
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY04
+cd ~/Dev/personal-learning-AI/learn-rust/DAY04
 rustc main.rs && ./main
 ```
 

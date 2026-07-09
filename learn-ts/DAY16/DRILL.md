@@ -62,7 +62,7 @@ Create a `DeepReadonly<T>` mapped type that recursively applies `readonly` to ne
 ## How to run
 
 ```bash
-cd ~/Dev/learn-ts/DAY16
+cd ~/Dev/personal-learning-AI/learn-ts/DAY16
 npx tsx index.ts
 ```
 

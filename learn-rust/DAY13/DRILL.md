@@ -62,7 +62,7 @@ After fixing:
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY13
+cd ~/Dev/personal-learning-AI/learn-rust/DAY13
 rustc main.rs && ./main
 ```
 

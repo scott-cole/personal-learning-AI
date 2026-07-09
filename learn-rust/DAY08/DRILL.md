@@ -67,7 +67,7 @@ Add a `Triangle(f64, f64, f64)` variant (three sides) and implement area using H
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY08
+cd ~/Dev/personal-learning-AI/learn-rust/DAY08
 rustc main.rs && ./main
 ```
 

@@ -5,7 +5,7 @@ Build the complete full-stack todo app in `DAY30/`.
 ## Setup
 
 ```bash
-cd ~/Dev/learn-ts/DAY30
+cd ~/Dev/personal-learning-AI/learn-ts/DAY30
 
 # Server
 mkdir server && cd server

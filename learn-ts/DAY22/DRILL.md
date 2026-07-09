@@ -17,7 +17,7 @@ DAY22/
 ### Setup steps
 
 ```bash
-cd ~/Dev/learn-ts/DAY22
+cd ~/Dev/personal-learning-AI/learn-ts/DAY22
 
 # 1. Create package.json manually (or npm init)
 # 2. Create tsconfig.json manually

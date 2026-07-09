@@ -62,7 +62,7 @@ Add a `genre` property to `Book` and a function `booksByGenre(library: Library, 
 ## How to run
 
 ```bash
-cd ~/Dev/learn-ts/DAY03
+cd ~/Dev/personal-learning-AI/learn-ts/DAY03
 npx tsx index.ts
 ```
 

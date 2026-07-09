@@ -76,7 +76,7 @@ Add a "result" channel: workers send `"Worker {} finished {}"` back to main, and
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY20
+cd ~/Dev/personal-learning-AI/learn-rust/DAY20
 rustc main.rs && ./main
 ```
 

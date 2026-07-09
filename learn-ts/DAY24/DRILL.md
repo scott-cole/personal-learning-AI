@@ -5,7 +5,7 @@ Build a validation layer with Zod in `DAY24/`.
 ## Setup
 
 ```bash
-cd ~/Dev/learn-ts/DAY24
+cd ~/Dev/personal-learning-AI/learn-ts/DAY24
 npm init -y
 npm install express zod
 npm install -D typescript @types/node @types/express tsx

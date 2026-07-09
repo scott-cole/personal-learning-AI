@@ -73,7 +73,7 @@ Add a `check_out_duration` field (i32, days) and a method `is_overdue(&self, day
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY06
+cd ~/Dev/personal-learning-AI/learn-rust/DAY06
 rustc main.rs && ./main
 ```
 

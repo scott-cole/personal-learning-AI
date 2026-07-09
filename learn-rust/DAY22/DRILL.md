@@ -92,7 +92,7 @@ Add a `search_files(dir: &str, pattern: &str) -> io::Result<Vec<String>>` functi
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY22
+cd ~/Dev/personal-learning-AI/learn-rust/DAY22
 rustc main.rs && ./main
 ```
 

@@ -86,7 +86,7 @@ Add a `scientific.ts` module with `power` and `sqrt` functions. Export and use t
 ## How to run
 
 ```bash
-cd ~/Dev/learn-ts/DAY10
+cd ~/Dev/personal-learning-AI/learn-ts/DAY10
 npx tsx index.ts
 ```
 

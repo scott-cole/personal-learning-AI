@@ -103,7 +103,7 @@ Implement `FileRepository` that saves/loads from a JSON file using `fs.readFileS
 ## How to run
 
 ```bash
-cd ~/Dev/learn-ts/DAY21
+cd ~/Dev/personal-learning-AI/learn-ts/DAY21
 npx tsx index.ts
 ```
 

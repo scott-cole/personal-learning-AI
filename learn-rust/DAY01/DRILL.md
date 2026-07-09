@@ -47,7 +47,7 @@ I'm approximately 262800 hours old!
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY01
+cd ~/Dev/personal-learning-AI/learn-rust/DAY01
 rustc main.rs && ./main
 ```
 

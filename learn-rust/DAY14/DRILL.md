@@ -129,7 +129,7 @@ Saved to todos.json!
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY14/todo_persist
+cd ~/Dev/personal-learning-AI/learn-rust/DAY14/todo_persist
 cargo run
 ```
 

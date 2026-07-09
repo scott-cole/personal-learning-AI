@@ -60,7 +60,7 @@ Filter out words shorter than 3 characters and see how the output changes.
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY10
+cd ~/Dev/personal-learning-AI/learn-rust/DAY10
 rustc main.rs && ./main
 ```
 

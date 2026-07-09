@@ -88,7 +88,7 @@ Implement a generic `Pair<T, U>` struct with methods `first(&self) -> &T` and `s
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY11
+cd ~/Dev/personal-learning-AI/learn-rust/DAY11
 rustc main.rs && ./main
 ```
 

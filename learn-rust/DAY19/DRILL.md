@@ -77,7 +77,7 @@ Add a method `fn len(&self) -> usize` to `List` that counts the elements recursi
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY19
+cd ~/Dev/personal-learning-AI/learn-rust/DAY19
 rustc main.rs && ./main
 ```
 

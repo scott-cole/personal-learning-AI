@@ -104,7 +104,7 @@ curl http://127.0.0.1:3000/square/7
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY24/web_server
+cd ~/Dev/personal-learning-AI/learn-rust/DAY24/web_server
 cargo run
 ```
 

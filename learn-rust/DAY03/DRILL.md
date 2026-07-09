@@ -64,7 +64,7 @@ Note: The program should compile cleanly with no warnings about unused variables
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY03
+cd ~/Dev/personal-learning-AI/learn-rust/DAY03
 rustc main.rs && ./main
 ```
 

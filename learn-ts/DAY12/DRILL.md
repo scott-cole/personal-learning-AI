@@ -55,7 +55,7 @@ Add a `safeJSONParse(s: string): Result<unknown>` that wraps `JSON.parse` in try
 ## How to run
 
 ```bash
-cd ~/Dev/learn-ts/DAY12
+cd ~/Dev/personal-learning-AI/learn-ts/DAY12
 npx tsx index.ts
 ```
 

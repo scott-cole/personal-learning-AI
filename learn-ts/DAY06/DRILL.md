@@ -54,7 +54,7 @@ Add a `Magazine` subclass with `issueNumber: number`. Create an array of `Item[]
 ## How to run
 
 ```bash
-cd ~/Dev/learn-ts/DAY06
+cd ~/Dev/personal-learning-AI/learn-ts/DAY06
 npx tsx index.ts
 ```
 

@@ -5,7 +5,7 @@ Write tests first, then implement the functions. This is TDD: Red → Green → 
 ## Setup
 
 ```bash
-cd ~/Dev/learn-ts/DAY25
+cd ~/Dev/personal-learning-AI/learn-ts/DAY25
 npm init -y
 npm install -D vitest typescript @types/node
 ```

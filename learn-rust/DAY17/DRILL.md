@@ -99,7 +99,7 @@ fn main() {
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY17/math_tools
+cd ~/Dev/personal-learning-AI/learn-rust/DAY17/math_tools
 cargo run
 ```
 

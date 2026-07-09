@@ -62,7 +62,7 @@ Add a function `celsius_to_kelvin(c: f64) -> f64` (formula: `c + 273.15`) and pr
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY02
+cd ~/Dev/personal-learning-AI/learn-rust/DAY02
 rustc main.rs && ./main
 ```
 

@@ -122,7 +122,7 @@ curl http://127.0.0.1:3000/
 ## How to run
 
 ```bash
-cd ~/Dev/learn-rust/DAY27/config_server
+cd ~/Dev/personal-learning-AI/learn-rust/DAY27/config_server
 RUST_LOG=debug cargo run
 ```
 

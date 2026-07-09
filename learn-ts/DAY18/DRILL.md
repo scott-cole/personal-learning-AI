@@ -60,7 +60,7 @@ Add a utility type `Writable<T>` that removes `readonly` (if present). Use it to
 ## How to run
 
 ```bash
-cd ~/Dev/learn-ts/DAY18
+cd ~/Dev/personal-learning-AI/learn-ts/DAY18
 npx tsx index.ts
 ```
 
